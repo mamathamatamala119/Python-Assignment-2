@@ -1,0 +1,1 @@
+//To calculate sum of n numbers 
